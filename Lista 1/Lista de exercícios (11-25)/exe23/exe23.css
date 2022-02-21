@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(0, 201, 0);
+    margin-top: 50px;
+}
+div {
+
+    background-color: black;
+    border-radius: 15px;
+    padding: 5px;
+
+    margin-left: 25%;
+    margin-right: 25%;
+    
+    color: white;
+    font-weight: bold;
+
+}
+button{
+    font-weight: bold;
+}
+#angulo1{
+    width: 12.5%;
+    margin: 8px 0;
+}
+#angulo2{
+    width: 12.5%;
+    margin: 8px 0;
+}

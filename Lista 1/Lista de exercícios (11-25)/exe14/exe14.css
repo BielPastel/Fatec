@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(0, 201, 0);
+    margin-top: 50px;
+}
+div {
+
+    background-color: black;
+    border-radius: 15px;
+    padding: 5px;
+
+    margin-left: 17%;
+    margin-right: 17%;
+    
+    color: white;
+    font-weight: bold;
+
+}
+button{
+    font-weight: bold;
+}
+#diaN{
+    width: 8.5%;
+    margin: 8px 0;
+}
+#mesN{
+    width: 8.5%;
+    margin: 8px 0;
+}
+#anoN{
+    width: 12%;
+    margin: 8px 0;
+}
+#dia{
+    width: 8.5%;
+    margin: 8px 0;
+}
+#mes{
+    width: 8.5%;
+    margin: 8px 0;
+}
+#ano{
+    width: 12%;
+    margin: 8px 0;
+}

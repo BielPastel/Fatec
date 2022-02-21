@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(0, 201, 0);
+    margin-top: 50px;
+}
+div {
+
+    background-color: black;
+    border-radius: 15px;
+    padding: 5px;
+
+    margin-left: 20%;
+    margin-right: 20%;
+    
+    color: white;
+    font-weight: bold;
+
+}
+button{
+    font-weight: bold;
+}
+#horas{
+    width: 20%;
+    margin: 8px;
+}
+#minutos{
+    width: 20%;
+    margin: 8px;
+}
